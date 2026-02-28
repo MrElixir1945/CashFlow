@@ -1,6 +1,6 @@
 # 💳 CashFlow
 
-> Manajemen keuangan pribadi dengan dua antarmuka: **Bot Telegram** untuk input cepat dan **Web Dashboard** untuk melihat riwayat transaksi — bisa diakses dari mana saja.
+> Manajemen keuangan pribadi dengan dua antarmuka: **Bot Telegram** untuk input cepat dan **Web Dashboard** untuk melihat riwayat transaksi — bisa diakses dari mana saja, sistem bekerja secara manual di input oleh user.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?logo=flask) ![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite) ![License](https://img.shields.io/badge/License-MIT-green)
 
